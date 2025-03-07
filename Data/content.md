@@ -1,0 +1,7 @@
+# Supplementary data
+
+**Data1.nwk**: Newick file for phylogenetic tree in Figure 1 (433 _Pst_ isolates).
+
+**Data2.nwk**: Newick file for phylogenetic tree in Figure 4 (436 _Pst_ isolates).
+
+**Data3.nwk**: Newick file for phylogenetic tree in Figure S5 (437 _Pst_ isolates).
