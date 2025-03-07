@@ -1,23 +1,13 @@
 #Pedigrees		
 LineName	FemaleParent	MaleParent
-Robigus1	366	Z-836
-Zulu	CEBECO99080_x_Claire	Robigus
-Reflection	Denman	Oakley
 Myriad	NSL_00_0742	Nijinsky
-Invicta	NSL-WW-48	Robigus
-Britannia	Robigus	Cassius
-JB_Diego	STRU-2374	3351-B-2
 Claire	Wasp	Flame
 Scout	Z-435	Deben
-Z-836	138	433
 STRU-2374	201	496
-3351-B-2	202	497
 Z-435	237	532
-Oakley	Access	Aardvark(sib)_x_Robigus
-Denman	Alchemy	Glasgow
 Wasp	Boxer	Galahad
 Nijinsky	Claire	Consort
 NSL-WW-48	Consort	Claire
 Deben	Hunter_x_Buster	Wasp
 Flame	Moulin	Taurus
-Cassius	WizardGBR	Claire_x_NSL-WW-24
+
