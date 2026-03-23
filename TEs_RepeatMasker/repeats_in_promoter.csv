@@ -1,0 +1,7 @@
+Gene,Location,Start,End,Repeats,stream,proximity_to_CDS,repeat_info,inside_promoter,new_repeats
+Actin,NC_063041.1,2142734,2142772,(ATG)n,Upstream,463.0,13.0,YES,(ATG)13
+α-Tubulin,NC_063035.1,523060,523087,(A)n,Upstream,272.0,27.0,YES,(A)27
+β-Tubulin,NC_063031.1,1244767,1244789,(ATC)n,Upstream,633.0,7.0,YES,(ATC)7
+β-Tubulin,NC_063031.1,1245040,1245084,(TCAGTC)n,Upstream,360.0,7.0,YES,(TCAGTC)7
+β-Tubulin,NC_063031.1,1245067,1245164,(TCTCCA)n,Upstream,333.0,16.0,YES,(TCTCCA)16
+Elongation factor 1,NC_063031.1,1411942,1411966,(C)n,Upstream,511.0,24.0,YES,(C)24
